@@ -15,5 +15,4 @@ data:
     </html>
 kind: ConfigMap
 metadata:
-  creationTimestamp: null
   name: zad2-cm
