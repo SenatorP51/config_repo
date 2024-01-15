@@ -25,7 +25,7 @@ spec:
           name: zad2-cm
       containers:
       - name: zad2-web
-        image: spg51/zad2:5.1.1
+        image: spg51/zad2:3.3.0
         imagePullPolicy: IfNotPresent
         volumeMounts:
         - name: index-vol
