@@ -5,8 +5,8 @@ data:
     <html>
     <body>
 
-    <h1>ZADANIE 2 -- sample solution</h1>
-    <p>Image: spg51/zad2:$NEW_TAG
+    <h1> ZADANIE 2 -- sample solution </h1>
+    <p> Image: spg51/zad2:1.0.10 </p>
 
     </body>
     </html>
